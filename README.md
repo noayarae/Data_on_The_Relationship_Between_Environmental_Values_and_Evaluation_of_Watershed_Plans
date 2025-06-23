@@ -4,13 +4,15 @@ This repository contains the full dataset and R scripts used in the article "The
 
 The materials are organized as follows:
 
-- raw_data/: Contains the original input data used in the study.
+- raw_data/
+Contains the original input data used in the study.
 
-      EPVQ_score_data.csv: Environmental Portrait Value Questionnaire (E-PVQ) scores for all participants.
+EPVQ_score_data.csv: Environmental Portrait Value Questionnaire (E-PVQ) scores for all participants.
 
-      Rating_of_participants_to_the_suggested_plans.csv: Participant ratings of the 20 suggested conservation practice plans.
+Rating_of_participants_to_the_suggested_plans.csv: Participant ratings of the 20 suggested conservation practice plans.
 
-- code_and_pre_processed_data/: Contains all R scripts and pre-processed datasets required to replicate the analyses.
+- code_and_pre_processed_data/
+Contains all R scripts and pre-processed datasets required to replicate the analyses.
 
 Scripts are organized by the article's four main objectives. Sub-objectives (e.g., Objectives 2 and 3) have corresponding, clearly labeled scripts.
 
