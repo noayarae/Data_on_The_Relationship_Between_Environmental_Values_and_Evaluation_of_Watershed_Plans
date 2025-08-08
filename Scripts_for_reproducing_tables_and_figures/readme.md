@@ -1,3 +1,5 @@
+## **Description to reproduce tables and figures**
+
 The files and scripts in this folder are organized according to the table and figure numbers presented in the manuscript "Relationship Between Environmental Values and the Evaluation of Watershed Conservation Plans that Benefit the Community Versus the Individual".
 
 Most of the scripts were developed in the R programming language, with some components prepared directly in Excel. All analyses were based on two primary raw data files, included in this repository: EPVQ_score_data.csv and Rating_of_participants_to_the_suggested_plans.csv.
