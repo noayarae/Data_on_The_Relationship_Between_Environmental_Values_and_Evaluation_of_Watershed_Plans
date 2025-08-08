@@ -2,7 +2,7 @@
 
 This repository contains the full dataset and R scripts used in the article "The Relationship Between Environmental Values and the Evaluation of Watershed Conservation Plans That Benefit the Community Versus the Individual."
 
-The materials are organized as follows:
+The materials are organized as follows: 
 
 - raw_data/
 
