@@ -1,26 +1,22 @@
-## **Data on The Relationship Between Environmental Values and the Evaluation of Watershed Conservation Plans that Benefit the Community Versus the Individual**
+## **Repository Overview**
 
-This repository contains the full dataset and R scripts used in the article "The Relationship Between Environmental Values and the Evaluation of Watershed Conservation Plans That Benefit the Community Versus the Individual."
+This repository contains the complete dataset and R scripts used in the manuscript:
+"The Relationship Between Environmental Values and the Evaluation of Watershed Conservation Plans That Benefit the Community Versus the Individual."
 
-The materials are organized as follows: 
+All materials are organized into the following directories: 
 
 - raw_data/
 
-Contains the original input data used in the study.
+Contains the original input data used in the study:
 
-EPVQ_score_data.csv: Environmental Portrait Value Questionnaire (E-PVQ) scores for all participants.
+EPVQ_score_data.csv – Environmental Portrait Value Questionnaire (E-PVQ) scores for all participants.
 
-Rating_of_participants_to_the_suggested_plans.csv: Participant ratings of the 20 suggested conservation practice plans.
+Rating_of_participants_to_the_suggested_plans.csv – Participant ratings for the 20 proposed watershed conservation practice plans.
 
-- code_and_pre_processed_data/
+- Scripts_for_reproducing_tables_and_figures/
 
-Contains all R scripts and pre-processed datasets required to replicate the analyses.
-
-Scripts are organized by the article's four main objectives. Sub-objectives (e.g., Objectives 2 and 3) have corresponding, clearly labeled scripts.
-
-Pre-processed datasets are stored in this folder and are ready to be read directly by the scripts.
-
-Each script is annotated to facilitate reproducibility and corresponds to a specific analysis or figure in the manuscript. Users can run the scripts sequentially to reproduce the results presented in the article.
+Contains all R scripts and related files required to reproduce the tables and figures presented in the manuscript.
+A detailed readme.md file within this folder provides step-by-step instructions for generating each table and figure.
 
 
 
