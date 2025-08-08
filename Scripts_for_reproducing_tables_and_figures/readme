@@ -4,7 +4,7 @@ Most of the scripts were developed in the R programming language, with some comp
 
 For proper reproduction or execution of the analyses, please note the following:
 
-Excel files do not require execution. Users can simply open them with any compatible spreadsheet software.
+* Excel files do not require execution. Users can simply open them with any compatible spreadsheet software.
 
 R scripts are provided in two formats: .R and .ipynb. Users may choose either format for reproduction.
 
