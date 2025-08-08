@@ -19,8 +19,5 @@ Contains all R scripts and related files required to reproduce the tables and fi
 A detailed readme.md file within this folder provides step-by-step instructions for generating each table and figure.
 
 
-
-
-
-
+For detailed interpretation of the tables and figures, please refer to the manuscript. For additional questions or clarifications, you may contact the corresponding author at: enoay7@yahoo.com.
 
